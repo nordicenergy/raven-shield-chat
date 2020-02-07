@@ -231,12 +231,13 @@ Read the full text:
 
 
 ### ⭐️ Show your support
+
 Please ⭐️ this repository if this project helped you!
 
 
 #### Donation
 
-If you like this project, feel free to donate:
+##### If you like this project, feel free to donate:
 
 * Bitcoin:  14GyqCEZXyeythb6B6Vu5DiBCMszFrBsp1
 * Litecoin: LSi7smGjLwAmihFLEtV7Lit9Mmbsds9Tin
