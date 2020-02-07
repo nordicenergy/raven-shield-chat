@@ -13,20 +13,21 @@
   <a href="https://nordicenergy.app/buy">ICO Token Sale</a>
 </p>
 
+___
 
-The Blockchain based mobile application for the RavenShield. The aim is to build an app for communication using text messages, images, documents or voice notes, and also for broadcasting offline signed Nordic Energy tokens, bitcoin and other cryptocurrency transactions.
 
-
-### About RavenShield
+### Nordic Energy´s RavenShield Chat
 
 The Nordic Energy´s RavenShield is a radio network for off-grid messaging and cryptocurrency transactions without access to the internet. The main objective is a long range network for everyone, everywhere. For this reason we are working not only in a protocol, but also the firmware for affordable devices like the Turpial, Harpia, or their DIY equivalents. We adhere to open source ethos at every step and aim to make this tool as decentralized as possible so users can transmit with freedom.
 
 If you want to learn more about RavenShield feel free to read the RavenShiled [main repository](https://github.com/nordicenergy/ravenshield) or take a look at our website [raveshield.app](https://ravenshield.app).
 
 
-### RavenShield Chat 
+### How It Works?
 
 RavenShield Chat is a radio network for communications bitcoin and Nordic Energy token transactions without internet of even power-grid. We are working not only in a protocol, but also the firmwares for affordable devices like the Turpial of Herpian. 
+
+The Blockchain based mobile application for the RavenShield. The aim is to build an app for communication using text messages, images, documents or voice notes, and also for broadcasting offline signed Nordic Energy tokens, bitcoin and other cryptocurrency transactions.
 
 
 ### Sponsor
@@ -225,10 +226,10 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-___
 Read the full text:
 [RavenShiled Apache License 2.0](https://github.com/nordicenergy/RavenShield-Chat/blob/master/LICENSE)
 
+___
 
 ### ⭐️ Show your support
 
@@ -246,5 +247,4 @@ Please ⭐️ this repository if this project helped you!
 * Ethereum: 0x0A6f46F29e047EdcFdf7BF67fD1DcC418100beea
 * DAI: 0x3FcDF18672dF7079E3146C87502003fb7dB4fa38
 * Paypal: paypal.me/nordicenergy
-
 
